@@ -5,7 +5,7 @@
 Backend & frontend development, systems programming, AI workflows, and mobile applications.
 
 - 📍 Berlin, Germany
-- 🌍 French · English · German · Spanish · Turkish · currently learning Persian
+- 🌍 French · English · German · Spanish · Turkish · learning Persian
 
 
 ---
@@ -109,7 +109,7 @@ Implementation of the classic Dining Philosophers problem, exploring **threads, 
 
 ## 🎓 Education
 
-### 42 Berlin
+### - 42 Berlin
 
 **Software Engineering · 2024 – Present**
 
@@ -125,11 +125,11 @@ Main areas:
 * Algorithms & data structures
 * TypeScript / NestJS / React
 
-### EHESS / Inserm / Iris — Paris
+### - EHESS / Inserm / Iris — Paris
 
 **Doctoral & Postdoctoral Research · 2014 – 2023**
 
-Led data-driven research projects in medical technology and gender.
+Led data-driven research projects in the field of medical technologies and gender studies.
 
 Experience included:
 
@@ -147,11 +147,11 @@ Experience included:
 ## 🧠 Other Things I Bring
 
 * Analytical thinking from academic research
-* Infinite curiosity and paxsion for learning
+* Infinite curiosity and passion for learning
 * Comfortable learning unfamiliar technologies and tackling new concepts
-* Data analysis and evidence-based problem solving
-* Strong experience working independently and in teams
 * Peer-to-peer learning, collaborative development, code review
+* Data analysis, scientific rigor and problem-solving
+* Strong experience working independently but also loves to work in teams
 * Scientific writing and documentation
 * Experience working across disciplines
 
@@ -159,13 +159,10 @@ Experience included:
 
 ## 📚 Currently Learning
 
-- 🐍 **Python**
-- 📱 **Flutter / mobile development**
-- 🤖 **AI-assisted development & workflow optimisation**
+- **Python**
+- **Flutter / mobile development**
+- **AI-assisted development & workflow optimisation**
 
 ---
 
-## 📫 Let's Connect
-
-I'm always interested in innovative software projects, collaboration and conversations around engineering, AI workflows and technology, problem solving and building stuff. 
 
