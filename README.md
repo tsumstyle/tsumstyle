@@ -12,13 +12,13 @@ Backend & frontend development, systems programming, AI workflows, and mobile ap
 
 ## 🚀 About Me
 
-I'm a software engineer and former academic researcher, currently studying at **42 Berlin**.
+I'm a software engineer and former academic researcher, currently an advanced student at **[42 Berlin](https://www.42berlin.de/)** (2-year intensive and high-level peer‑to‑peer engineering school, project-based, with constant code review between peers).
 
-Before transitioning into software engineering, I spent almost a decade working as a doctoral and postdoctoral researcher in Paris, leading data-driven research projects at the intersection of medical technology and gender.
+Before transitioning to software engineering, I spent almost a decade working as a doctoral and postdoctoral researcher in Paris, France, leading data-driven research projects in the field of medical technologies and gender studies.
 
-Today, I enjoy building software end to end — from low-level systems programming in C/C++ to full-stack web applications — and I'm particularly interested in backend architecture, AI workflow optimisation, and mobile development.
+A lifelong curiosity for coding (and early geek tendencies...) led me to switch career paths and enroll at 42 Berlin. Today, I enjoy building software end to end — from low-level systems programming in C/C++ to full-stack web applications — and I'm particularly interested in backend architecture, AI workflow optimisation, and mobile development.
 
-I'm currently working solo on a **multi-translator application**, with a beta version coming soon.
+I'm currently working solo on a **multi-translator application**, with a beta version coming soon. I'm passionate about learning new skills and languages (computer-related or not).
 
 ---
 
@@ -82,7 +82,7 @@ Implementation of the classic Dining Philosophers problem, exploring **threads, 
 ---
 -->
 
-## 🧪 Professional Experience
+## 🧪 Professional Experience as a Developer
 
 ### Junior Developer — Euvino · Berlin
 
@@ -129,29 +129,30 @@ Experience included:
 * Large-scale dataset structuring
 * Interdisciplinary collaboration
 * Supervision and training of junior researchers
+* Large scientific event organisation, grant applications
 * Scientific publications, including [a book](www.fmsh.fr/en/publications/pilule-defaire-levidence)
-* Co-founding a [junior research laboratory](https://contraceptiongender.wordpress.com/)
+* Co-founded a [Junior Research Laboratory](https://contraceptiongender.wordpress.com/)
 
 ---
 
 ## 🧠 Other Things I Bring
 
 * Analytical thinking from academic research
-* Infinite curiosity and learning thirst
+* Infinite curiosity and paxsion for learning
+* Comfortable learning unfamiliar technologies and tackling new concepts
 * Data analysis and evidence-based problem solving
 * Strong experience working independently and in teams
 * Peer-to-peer learning, collaborative development, code review
 * Scientific writing and documentation
 * Experience working across disciplines
-* Comfortable learning unfamiliar technologies and tackling new concepts
 
 ---
 
 ## 📚 Currently Learning
 
-🐍 **Python**
-📱 **Flutter / mobile development**
-🤖 **AI-assisted development & workflow optimisation**
+- 🐍 **Python**
+- 📱 **Flutter / mobile development**
+- 🤖 **AI-assisted development & workflow optimisation**
 
 ---
 
