@@ -1,6 +1,6 @@
 # Hi, I'm Alex Roux
 
-💻 Software Engineer | 🎓 42 Berlin | 🔬 Former Researcher
+💻 Software Engineer | 🎓 42 Berlin graduate | 🔬 Former Researcher
 
 Backend & frontend development, systems programming, AI workflows, and mobile applications.
 
