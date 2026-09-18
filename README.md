@@ -72,6 +72,12 @@ My contributions included **chat, internationalisation, input sanitisation, cybe
 
 ---
 
+### 🌍 Polygloat — Javascript
+
+A multilingual translation application that I am currently developing independently.
+
+**Status:** 🚧 Private repository · Beta coming soon
+
 <!--
 ### 🧩 Philosophers — C
 
