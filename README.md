@@ -78,6 +78,9 @@ A multilingual translation application that I am currently developing independen
 
 **Status:** 🚧 Private repository · Beta coming soon
 
+
+---
+
 <!--
 ### 🧩 Philosophers — C
 
