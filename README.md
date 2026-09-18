@@ -3,9 +3,9 @@
 Former researcher turned software engineer.
 
 - 🔭 Currently working solo on a multi-translator app (private repo, beta version soon accessible).
-- 🎓 Graduate of **42 Berlin**
+- 🎓 Graduate of **[42 Berlin](https://www.42berlin.de/)**: 2-years intensive peer-to-peer software engineering school, project-based, with frequent peer code review. 
 - 💻 Experienced with **C, C++, Makefiles, PHP, Shell, JS, TS, React, HTML/CSS, SQL, R, Stata.** 
-- 🌱 Learning Python. 
+- 🌱 Learning Python and Flutter. 
 - 📍 Based in Berlin, Germany
 - 📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/alex-roux-a43989409/ )· [Email](tsumstyle@gmail.com)
 - 😄 Pronouns: she/they/he
