@@ -39,43 +39,36 @@ I'm currently working solo on a **multi-translator application**, with a beta ve
 
 ## 💻 Projects
 
-### 🐚 Minishell — C
-
+### 🐚 [Minishell](https://github.com/Bernhardbiermann/42_minishell) - C
 A Unix shell implemented in C as part of the 42 curriculum.
 
 Focused on **process creation and management, pipes, redirections, environment variables, signals and built-in commands**.
 
-→ [View repository](https://github.com/Bernhardbiermann/42_minishell)
-
 ---
 
-### 🎮 Cub3D — C
-
+### 🎮 [Cub3D](https://github.com/tsumstyle/cub3d) — C
 A raycasting-based 3D game inspired by early Wolfenstein-style rendering.
 
 My contributions included **raycasting, 2D map parsing, textures, sprites and event handling**, as well as graphics programming with MiniLibX.
 
-→ [View repository](https://github.com/tsumstyle/cub3d)
 
 ---
 
-### 🌐 ft_irc — C++
+### 🌐 [ft_irc](https://github.com/tsumstyle/ft_irc) — C++
 
 A small IRC server implementing user registration, channels, messaging and moderator functionality.
 
 Worked on **socket management, client/channel management, command handling, user lifecycle, signals, error handling and testing**.
 
-→ [View repository](https://github.com/tsumstyle/ft_irc)
 
 ---
 
-### 🏓 ft_transcendence — TypeScript / NestJS / React
+### 🏓 [ft_transcendence](https://github.com/tsumstyle/ft_transcendence) — TypeScript / NestJS / React
 
 Full-stack real-time multiplayer Pong application featuring **OAuth2, JWT authentication, WebSockets, internationalisation, chat, an AI player and REST APIs**.
 
 My contributions included **chat, internationalisation, input sanitisation, cybersecurity, testing, bug reporting and deployment**.
 
-→ [View repository](https://github.com/tsumstyle/ft_transcendence)
 
 ---
 
