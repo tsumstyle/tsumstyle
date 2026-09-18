@@ -144,7 +144,7 @@ Experience included:
 
 ---
 
-## 🧠 Other Things I Bring
+## 🧠 Soft skills
 
 * Analytical thinking from academic research
 * Infinite curiosity and passion for learning
