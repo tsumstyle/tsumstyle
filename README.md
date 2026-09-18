@@ -164,16 +164,5 @@ Experience included:
 
 ## 📫 Let's Connect
 
-I'm always interested in innovative software projects, collaboration and conversations around engineering, AI workflows and technology.
+I'm always interested in innovative software projects, collaboration and conversations around engineering, AI workflows and technology, problem solving and building stuff. 
 
----
-
-## 📊 GitHub Activity
-
-[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsumstyle\&show_icons=true\&hide_border=true)](https://github.com/tsumstyle)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=tsumstyle\&hide_border=true)](https://github.com/tsumstyle)
-
----
-
-⭐ *Building software, learning continuously, and bringing a researcher's curiosity to engineering.*
