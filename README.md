@@ -42,7 +42,7 @@ I'm currently working solo on a **multi-translator application**, with a beta ve
 ### 🐚 [Minishell](https://github.com/Bernhardbiermann/42_minishell) - C
 A Unix shell implemented in C as part of the 42 curriculum.
 
-Focused on **process creation and management, pipes, redirections, environment variables, signals and built-in commands**.
+Responsible for **process creation and management, pipes, redirections, environment variables, signals and built-in commands**.
 
 ---
 
