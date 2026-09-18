@@ -4,9 +4,9 @@
 
 Backend & frontend development, systems programming, AI workflows, and mobile applications.
 
-📍 Berlin, Germany
-🌍 French · English · German · Spanish · Turkish · currently learning Persian
-😄 she/they/he
+- 📍 Berlin, Germany
+- 🌍 French · English · German · Spanish · Turkish · currently learning Persian
+
 
 ---
 
