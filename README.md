@@ -7,8 +7,8 @@ Former researcher turned software engineer.
 - 💻 Experienced with **C, C++, Makefiles, PHP, Shell, JS, TS, React, HTML/CSS, SQL, R, Stata.** 
 - 🌱 Learning Python. 
 - 📍 Based in Berlin, Germany
-📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/alex-roux-a43989409/ )· [Email](tsumstyle@gmail.com)
-- - 😄 Pronouns: she/they/he
+- 📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/alex-roux-a43989409/ )· [Email](tsumstyle@gmail.com)
+- 😄 Pronouns: she/they/he
 - ⚡ Fun fact: Fluent in 3 French, English, German, knowledgeable in Spanish and Turkish, learning Persian. 
 
 ## About Me
