@@ -126,7 +126,7 @@ Main areas:
 
 ---
 
-### ** Doctoral & Postdoctoral Research** · EHESS / Inserm / Iris (Paris, France)
+### **Doctoral & Postdoctoral Research** · EHESS / Inserm / Iris (Paris, France)
 2014 – 2023
 
 Led data-driven research projects in the field of medical technologies and gender studies.
