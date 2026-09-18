@@ -6,6 +6,7 @@ Backend & frontend development, systems programming, AI workflows, and mobile ap
 
 - 📍 Berlin, Germany
 - 🌍 French · English · German · Spanish · Turkish · learning Persian
+- 📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/alex-roux-a43989409/ )
 
 
 ---
