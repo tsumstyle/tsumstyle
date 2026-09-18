@@ -109,7 +109,8 @@ Implementation of the classic Dining Philosophers problem, exploring **threads, 
 
 ## 🎓 Education
 
-### 42 Berlin (Germany) - **Software Engineering · 2024 – Present**
+### **Software Engineering** · 42 Berlin (Germany) 
+2024 – Present
 
 Peer-to-peer, project-based software engineering programme focused on practical development and collaborative code review.
 
@@ -125,7 +126,8 @@ Main areas:
 
 ---
 
-### EHESS / Inserm / Iris (Paris, France) - **Doctoral & Postdoctoral Research · 2014 – 2023**
+### ** Doctoral & Postdoctoral Research** · EHESS / Inserm / Iris (Paris, France)
+2014 – 2023
 
 Led data-driven research projects in the field of medical technologies and gender studies.
 
