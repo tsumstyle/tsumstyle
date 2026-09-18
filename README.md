@@ -131,7 +131,7 @@ Led data-driven research projects in the field of medical technologies and gende
 
 Experience included:
 
-* Research project management
+* Research project management, working on long-term projects
 * Statistical analysis with R and Stata
 * Large-scale dataset structuring
 * Interdisciplinary collaboration
