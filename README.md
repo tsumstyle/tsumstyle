@@ -45,7 +45,7 @@ While my partners did the following:
 - operator (moderator) commands
 - layout (colors and custom comments)
 
-→ [View repository]()
+→ [View repository](https://github.com/tsumstyle/ft_irc)
 
 
 ## C:
@@ -61,7 +61,7 @@ and we worked together on:
 -**intensive testing**.
   
 
-→ [View repository]()
+→ [View repository](https://github.com/Bernhardbiermann/42_minishell)
 
 ### 🎮 Cub3D (team project)
 
@@ -73,7 +73,7 @@ A raycasting-based 3D game inspired by the early Wolfenstein-style rendering app
 - Graphics programming with MiniLibX (with my partner).
 My partner handled the onscreen 2D map rendering. 
 
-→ [View repository](...)
+→ [View repository](https://github.com/tsumstyle/cub3d)
 
 ### 🧩 Philosophers (solo project)
 
@@ -96,7 +96,7 @@ Full‑stack web app for a real‑time multiplayer Pong with OAuth2 login,  user
 - intensive testing and bug reporting
 - later deployment
 
-→ [View repository](...)
+→ [View repository](https://github.com/tsumstyle/ft_transcendence)
 
 ## Experience
 
