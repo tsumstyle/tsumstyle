@@ -62,9 +62,9 @@ Responsible for **process creation and management, pipes, redirections, environm
 ---
 
 ### 🎮 [Cub3D](https://github.com/tsumstyle/cub3d) — C
-A raycasting-based 3D game inspired by early Wolfenstein-style rendering.
+A raycasting-based 3D game inspired by early Wolfenstein-style rendering, using MiniLibX for graphics programming.
 
-My contributions included **raycasting, 2D map parsing, textures, sprites and event handling**, as well as graphics programming with MiniLibX.
+My contributions included **raycasting, 2D map parsing, textures, sprites and event handling**.
 
 
 ---
