@@ -82,7 +82,7 @@ Worked on **socket management, client/channel management, command handling, user
 
 Full-stack real-time multiplayer Pong application featuring **OAuth2, JWT authentication, WebSockets, internationalisation, chat, an AI player and REST APIs**.
 
-My contributions included **chat, internationalisation, input sanitisation, cybersecurity, testing, bug reporting <!--and deployment-->**.
+My contributions included **chat, internationalisation, input sanitisation, cybersecurity, testing<!--and deployment-->**.
 
 
 ---
@@ -91,7 +91,7 @@ My contributions included **chat, internationalisation, input sanitisation, cybe
 
 A multilingual translation application that I am currently developing independently.
 
-**Status:** 🚧 Private repository · Beta coming soon
+Private repository · Beta coming soon
 
 
 ---
