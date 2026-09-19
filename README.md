@@ -40,12 +40,12 @@ I'm currently working solo on a **multi-translator application**, with a beta ve
 
 ## 🧠 Soft skills
 
-* Analytical thinking from academic research
+* Analytical thinking and scientific rigor from academic research
 * Infinite curiosity and passion for learning
 * Comfortable learning unfamiliar technologies and tackling new concepts
 * Peer-to-peer learning, collaborative development, code review
-* Data analysis, scientific rigor and problem-solving
-* Strong experience working independently but also loves to work in teams
+* Data analysis and problem-solving
+* Strong experience working independently but also love to work in teams
 * Scientific writing and documentation
 * Experience working across disciplines
 
