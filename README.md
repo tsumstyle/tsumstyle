@@ -15,7 +15,7 @@ Backend & frontend development, systems programming, AI workflows, and mobile ap
 
 I'm a software engineer and former academic researcher, currently an advanced student at **[42 Berlin](https://www.42berlin.de/)** (2-year+ intensive and high-level peer‑to‑peer engineering school, project-based, with constant code review between peers).
 
-Before transitioning to software engineering, I spent almost a decade working as a doctoral and postdoctoral researcher in Paris, France, leading data-driven research projects in the field of medical technologies and gender studies.
+Before transitioning to software engineering, I spent almost a decade working as a doctoral and postdoctoral researcher in Paris, France. It included teaching and leading data-driven research projects in the field of medical technologies and gender studies.
 
 A lifelong curiosity for coding (and early geek tendencies...) led me to switch career paths and enroll at 42 Berlin. Today, I enjoy building software end to end — from low-level systems programming in C/C++ to full-stack web applications — and I'm particularly interested in backend architecture, AI workflow optimisation, and mobile development.
 
