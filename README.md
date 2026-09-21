@@ -68,7 +68,6 @@ I'm currently working solo on a **multi-translator application**, with a beta ve
 - 🌐 [ft_irc](https://github.com/tsumstyle/ft_irc) · `C++`
   
   A small IRC server implementing user registration, channels, messaging and moderator functionality.
-
   Worked on: **socket management, client/channel management, command handling, user lifecycle, signals, error handling and testing**.
 
 
