@@ -77,10 +77,10 @@ I'm currently working solo on a **multi-translator application**, with a beta ve
   Full-stack real-time multiplayer Pong application featuring **OAuth2, JWT authentication, WebSockets, internationalisation, chat, an AI player and REST APIs**.
   My contributions included: **chat, internationalisation, input sanitisation, cybersecurity, testing<!--and deployment-->**.
 
-- 🌍 Polygloat · `Javascript`
+- 🌍 Polygloat · `Javascript` (solo project)
   
-  A multilingual translation application that I am currently developing independently
-  Solo project · Private repo · Beta coming soon
+  A multilingual translation application that I am currently developing independently.
+  Private repo · Beta coming soon.
 
 
 ---
