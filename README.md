@@ -53,14 +53,14 @@ I'm currently working solo on a **multi-translator application**, with a beta ve
 
 ## 💻 Projects
 
-### 🐚 [Minishell](https://github.com/Bernhardbiermann/42_minishell) - C
+- ### 🐚 [Minishell](https://github.com/Bernhardbiermann/42_minishell) - C
 A Unix shell implemented in C.
 
 Responsible for **process creation and management, pipes, redirections, environment variables, signals and built-in commands**.
 
 ---
 
-### 🎮 [Cub3D](https://github.com/tsumstyle/cub3d) — C
+- ### 🎮 [Cub3D](https://github.com/tsumstyle/cub3d) — C
 A raycasting-based 3D game inspired by early Wolfenstein-style rendering, using MiniLibX for graphics programming.
 
 My contributions included **2D map parsing, raycasting and 3D rendering, textures, sprites and event handling**.
@@ -68,7 +68,7 @@ My contributions included **2D map parsing, raycasting and 3D rendering, texture
 
 ---
 
-### 🌐 [ft_irc](https://github.com/tsumstyle/ft_irc) — C++
+- ### 🌐 [ft_irc](https://github.com/tsumstyle/ft_irc) — C++
 
 A small IRC server implementing user registration, channels, messaging and moderator functionality.
 
@@ -77,7 +77,7 @@ Worked on **socket management, client/channel management, command handling, user
 
 ---
 
-### 🏓 [ft_transcendence](https://github.com/tsumstyle/ft_transcendence) — TypeScript / NestJS / React
+- ### 🏓 [ft_transcendence](https://github.com/tsumstyle/ft_transcendence) — TypeScript / NestJS / React
 
 Full-stack real-time multiplayer Pong application featuring **OAuth2, JWT authentication, WebSockets, internationalisation, chat, an AI player and REST APIs**.
 
@@ -86,7 +86,7 @@ My contributions included **chat, internationalisation, input sanitisation, cybe
 
 ---
 
-### 🌍 Polygloat — Javascript
+- ### 🌍 Polygloat — Javascript
 
 A multilingual translation application that I am currently developing independently
 
