@@ -122,7 +122,6 @@ Implementation of the classic Dining Philosophers problem, exploring **threads, 
 
 ---
 
-## 🎓 Education & Training
 
 ### **Software Engineering** · 42 Berlin (Germany) 
 2024 – Present
@@ -138,14 +137,6 @@ Main areas:
 * Object-oriented programming
 * Algorithms & data structures
 * TypeScript / NestJS / React
-
----
-### **PhD in Sociology** · EHESS Paris (France)
-2014 - 2020
-
----
-### **Bachelor in Economics** · Université Paris I (France)
-2006 - 2010
 
 ---
 
