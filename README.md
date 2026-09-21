@@ -52,11 +52,11 @@ I'm currently working solo on a **multi-translator application**, with a beta ve
 ---
 
 
-## 💻 Projects
+
 ## 💻 Projects
 
-| Project                                                                  | Stack                       | Description                                                                                                                                                            |
-| ------------------------------------------------------------------------ | --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Project                                                                       | Stack                       | Description                                                                                                                                                            |
+| ----------------------------------------------------------------------------- | --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 🐚 **[Minishell](https://github.com/Bernhardbiermann/42_minishell)**     | C                           | Unix shell implementation. **Focus:** processes, pipes, redirections, environment variables, signals and built-ins.                                                    |
 | 🎮 **[Cub3D](https://github.com/tsumstyle/cub3d)**                       | C                           | Raycasting-based 3D game using MiniLibX. **Focus:** raycasting, map parsing, textures, sprites and event handling.                                                     |
 | 🌐 **[ft_irc](https://github.com/tsumstyle/ft_irc)**                     | C++                         | IRC server with channels, messaging and moderator functionality. **Focus:** sockets, client/channel management, command handling, user lifecycle, signals and testing. |
