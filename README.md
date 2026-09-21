@@ -13,7 +13,7 @@ Backend & frontend development, systems programming, AI workflows, and mobile ap
 
 ## 🚀 About Me
 
-I'm a software engineer and former academic researcher, currently an advanced student at **[42 Berlin](https://www.42berlin.de/)** (2-year intensive and high-level peer‑to‑peer engineering school, project-based, with constant code review between peers).
+I'm a software engineer and former academic researcher, currently an advanced student at **[42 Berlin](https://www.42berlin.de/)** (2-year+ intensive and high-level peer‑to‑peer engineering school, project-based, with constant code review between peers).
 
 Before transitioning to software engineering, I spent almost a decade working as a doctoral and postdoctoral researcher in Paris, France, leading data-driven research projects in the field of medical technologies and gender studies.
 
@@ -41,13 +41,13 @@ I'm currently working solo on a **multi-translator application**, with a beta ve
 ## 🧠 Soft skills
 
 * Analytical thinking and scientific rigor from academic research
+* Strong experience in project management and knowing how to structure work on long-term projects
 * Infinite curiosity and passion for learning
 * Comfortable learning unfamiliar technologies and tackling new concepts
 * Peer-to-peer learning, collaborative development, code review
 * Data analysis and problem-solving
-* Strong experience working independently but also love to work in teams
-* Scientific writing and documentation
-* Experience working across disciplines
+* Comfortable working independently but also love to work in teams
+* Scientific writing and documentation, experience working across disciplines
 
 ---
 
@@ -122,7 +122,7 @@ Implementation of the classic Dining Philosophers problem, exploring **threads, 
 
 ---
 
-## 🎓 Education
+## 🎓 Education & Training
 
 ### **Software Engineering** · 42 Berlin (Germany) 
 2024 – Present
@@ -140,6 +140,31 @@ Main areas:
 * TypeScript / NestJS / React
 
 ---
+### **PhD in Sociology** · EHESS Paris (France)
+2014 - 2020
+---
+### **Bachelor in Economics** · Université Paris I (France)
+2006 - 2010
+---
+
+## 🎓 Academic Background
+
+**University Lecturer — Paris & Istanbul**
+*2011–2023*
+
+* Taught **sociology, public health, gender studies, quantitative methods and statistics** at undergraduate, graduate and continuing-education levels.
+* Taught **R and Stata**, including quantitative methods, factor analysis, classification, regression and multidimensional data analysis.
+* Delivered lectures, tutorials and online classes at **Université Paris-Diderot, Université Paris-Sorbonne, Université de Galatasaray**, and Inserm's École d'été de Santé Publique.
+
+**Doctoral & Postdoctoral Researcher — EHESS / Inserm / Iris**
+*Paris · 2014–2023*
+
+* Conducted interdisciplinary, data-driven research in **sociology of health, medicine, gender and science & technology**.
+* Worked with **large datasets and quantitative methods** using R and Stata, alongside qualitative and socio-historical approaches.
+* Led research projects, collaborated across disciplines, supervised junior researchers, organised large and small **scientific events** and applied for research grants 
+* Scientific publications, including [a book](www.fmsh.fr/en/publications/pilule-defaire-levidence)
+* Co-founded a [Junior Research Laboratory](https://contraceptiongender.wordpress.com/)
+
 
 ### **Doctoral & Postdoctoral Research** · EHESS / Inserm / Iris (Paris, France)
 2014 – 2023
