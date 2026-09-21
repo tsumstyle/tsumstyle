@@ -106,11 +106,11 @@ Implementation of the classic Dining Philosophers problem, exploring **threads, 
 ---
 -->
 
-## 🧪 Professional Experience as a Developer
+## 🧑‍💻 Professional Experience as a Developer
 
 ### Junior Developer — Euvino · Berlin
 
-**October 2025 – June 2026**
+*October 2025 – June 2026*
 
 * Replaced a legacy acceptance-test architecture based on 4–5 level inheritance chains with a flat composition-based architecture.
 * Migrated **41 tests** and added **13 new tests** covering previously untested functionality.
@@ -124,7 +124,7 @@ Implementation of the classic Dining Philosophers problem, exploring **threads, 
 
 
 ### **Software Engineering** · 42 Berlin (Germany) 
-2024 – Present
+*2024 – Present*
 
 Peer-to-peer, project-based software engineering programme focused on practical development and collaborative code review.
 
