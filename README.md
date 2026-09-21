@@ -159,10 +159,10 @@ Main areas:
 * Co-founded a [Junior Research Laboratory](https://contraceptiongender.wordpress.com/)
 
 
-**PhD in Sociology — EHESS*
+*PhD in Sociology — EHESS*
 *Paris (France) · 2014-2020*
 
-**Bachelor in Economics — Université Paris I*
+*Bachelor in Economics — Université Paris I*
 *Paris (France) · 2006-2009*
 
 ---
