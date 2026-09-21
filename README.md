@@ -142,9 +142,11 @@ Main areas:
 ---
 ### **PhD in Sociology** · EHESS Paris (France)
 2014 - 2020
+
 ---
 ### **Bachelor in Economics** · Université Paris I (France)
 2006 - 2010
+
 ---
 
 ## 🎓 Academic Background
