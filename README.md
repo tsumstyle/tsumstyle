@@ -140,7 +140,7 @@ Main areas:
 
 ---
 
-## 🎓 Academic Background
+## 🎓 Academic Background and Education
 
 **University Lecturer — Paris & Istanbul**
 *2011–2023*
@@ -157,6 +157,13 @@ Main areas:
 * Led research projects, collaborated across disciplines, supervised junior researchers, organised large and small **scientific events** and applied for research grants 
 * Scientific publications, including [a book](www.fmsh.fr/en/publications/pilule-defaire-levidence)
 * Co-founded a [Junior Research Laboratory](https://contraceptiongender.wordpress.com/)
+
+
+**PhD in Sociology — EHESS*
+*Paris (France) · 2014-2020*
+
+**Bachelor in Economics — Université Paris I*
+*Paris (France) · 2006-2009*
 
 ---
 
