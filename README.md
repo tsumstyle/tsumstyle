@@ -167,23 +167,6 @@ Main areas:
 * Scientific publications, including [a book](www.fmsh.fr/en/publications/pilule-defaire-levidence)
 * Co-founded a [Junior Research Laboratory](https://contraceptiongender.wordpress.com/)
 
-
-### **Doctoral & Postdoctoral Research** · EHESS / Inserm / Iris (Paris, France)
-2014 – 2023
-
-Led data-driven research projects in the field of medical technologies and gender studies.
-
-Experience included:
-
-* Research project management, knowing how to structure work on long-term projects
-* Statistical analysis with R and Stata
-* Large-scale dataset structuring
-* Interdisciplinary collaboration
-* Supervision and training of junior researchers
-* Large scientific event organisation, grant applications
-* Scientific publications, including [a book](www.fmsh.fr/en/publications/pilule-defaire-levidence)
-* Co-founded a [Junior Research Laboratory](https://contraceptiongender.wordpress.com/)
-
 ---
 
 ## 📚 Currently Learning
