@@ -21,7 +21,7 @@ A lifelong curiosity for coding (and early geek tendencies...) led me to switch 
 
 I'm currently working solo on a **multi-translator application**, with a beta version coming soon. I'm passionate about learning new skills and languages (computer-related or not).
 
-What you get when working with me: I love to get things done and will lead projects to their end. I'm a team player and love collaborative work, and am very adaptable to all kinds of working styles. I'm very good at fixing stuff and my patience knows no limits when it comes to problem-solving. 
+What you get when working with me: I love creating, building, getting things done and leading projects to their end. I'm a team player who thrives on collaboration and adapts easily to different working styles. I'm great at fixing stuff and my patience knows no limits when it comes to problem-solving. 
 
 ---
 
