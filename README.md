@@ -17,9 +17,11 @@ I'm a software engineer and former academic researcher, currently an advanced st
 
 Before transitioning to software engineering, I spent almost a decade working as a doctoral and postdoctoral researcher in Paris, France. It included teaching and leading data-driven research projects in the field of medical technologies and gender studies.
 
-A lifelong curiosity for coding (and early geek tendencies...) led me to switch career paths and enroll at 42 Berlin. Today, I enjoy building software end to end — from low-level systems programming in C/C++ to full-stack web applications — and I'm particularly interested in backend architecture, AI workflow optimisation, and mobile development.
+A lifelong curiosity for coding (and early geek tendencies...) led me to switch career paths and enroll at 42 Berlin. Today, I enjoy building software end to end — from low-level systems programming in C/C++ to full-stack web applications — and I'm particularly interested in backend architecture, AI workflow optimisation, and mobile development. 
 
 I'm currently working solo on a **multi-translator application**, with a beta version coming soon. I'm passionate about learning new skills and languages (computer-related or not).
+
+What you get when working with me: I love to get things done and will lead projects to their end. I'm a team player and love collaborative work, and am very adaptable to all kinds of working styles. I'm very good at fixing stuff and my patience knows no limits when it comes to problem-solving. 
 
 ---
 
